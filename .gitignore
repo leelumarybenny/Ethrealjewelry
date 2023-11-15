@@ -4,6 +4,7 @@
 /client/node_modules
 /Ethreal-backend/node_modules
 /Ethreal-backend/extra.js
+/client/AllOrders.jsx
 /.pnp
 .pnp.js
 
@@ -23,5 +24,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-#Ignore allOrders files
-/Pages/Admin/AllOrders
