@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    margin: auto;
+    padding: 40px;
+    text-align: left;
+    background: rgb(20,18,45);
+background: linear-gradient(90deg, rgba(20,18,45,1) 12%, rgba(60,60,87,1) 31%, rgba(38,57,61,1) 100%);
+    margin-top: 100px;
+    color: white;
+}
+@media screen and (max-width:1180px) and (min-width:760px) {
+    .container{
+        width: 100%;
+        margin: auto;
+        padding: 40px;
+        text-align: left;
+        background-color: #eef4fe;
+        margin-top: 100px;
+    }
+}
+@media screen and (max-width:759px) and (min-width:200px) {
+    .container{
+        width: 95%;
+        margin: auto;
+        padding: 40px;
+        text-align: left;
+        background-color: #eef4fe;
+        margin-top: 100px;
+    }
+}
